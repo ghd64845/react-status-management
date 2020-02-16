@@ -7,4 +7,4 @@
 create-react-app을 통해 새로운 리액트 디렉터리 생성
 
 ```$ cd react-redux-tutorial  
-$ yarn add redux react-redux```
+   $ yarn add redux react-redux```
