@@ -12,7 +12,7 @@ $ yarn add redux react-redux
 ```
 생성한 디렉터리에 yarn 명령어를 사용하여 redux와 react-redux 라이브러리를 설치
 
-###### Prettier을 작성 하고 싶으면 최상위 경로에 .prettier파일을 작성
+#### Prettier을 작성 하고 싶으면 최상위 경로에 .prettier파일을 작성
 ```  
 {  
   "singleQuote":true,  
